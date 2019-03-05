@@ -1,0 +1,35 @@
+.container {
+  font-family: Arial, sans-serif;
+	  font-size:20px;
+  color: #2E2E2E;
+  margin-bottom:0px;
+}
+
+ {
+  font-family: Arial, sans-serif;
+  font-weight:normal;
+  font-size:25px;
+  line-height: 27px;
+  margin: 24px 0 12px 0;
+  padding: 0 0 4px 0;
+  border-bottom: 1px solid #a2a2a2;
+}
+
+h2.{
+  font-family: Arial, sans-serif;
+  font-size:25px;
+}
+
+div.{
+  font-family: Arial, sans-serif;
+  font-size:16px;
+  color: #424242;
+  padding: 4px 0 4px 0;
+}
+
+label {
+  font-family: Arial, sans-serif;
+  font-size:14px;
+  color: #424242;
+  vertical-align:top;
+}
